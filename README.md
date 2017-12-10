@@ -1,2 +1,3 @@
-# Monetary-Core
-An implementation of Money by Martin Fowler.
+# Monetary
+PHP implementation of Fowler's Money pattern.
+
